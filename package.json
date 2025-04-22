@@ -3,6 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
+  "homepage": "https://adityagithub23.github.io/myPortfolio",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
